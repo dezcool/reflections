@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 
 The staging area indicates which files are being monitored. It adds value as other files within the same directory may not be monitored and therefore ignored by git.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Idk.
