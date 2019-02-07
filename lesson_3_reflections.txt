@@ -10,3 +10,6 @@ Describe the differences between forks, clones, and branches. When would you use
 
 Fork clones within GitHub, whereas clones will carbon copy complete projects within/to a local computer. Branches are ramifications of the same project.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Now I'm officially lost.
