@@ -13,3 +13,8 @@ Fork clones within GitHub, whereas clones will carbon copy complete projects wit
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Now I'm officially lost.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Creating individual files and a lot of sending back and fourth. Honestly, given that every one involved would need deep understanding of how Git and GitHub works, idk which one is harder. Probably using Git.
+
