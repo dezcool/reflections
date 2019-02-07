@@ -8,4 +8,4 @@ The staging area indicates which files are being monitored. It adds value as oth
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-Idk.
+By committing after every logical change.
