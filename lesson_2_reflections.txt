@@ -22,3 +22,9 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Commits from both branches are merged into the main branch (master). Idk.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+This shite is getting confusing. Auto merge is good when same files have not been modified.
+
+
+
