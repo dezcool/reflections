@@ -18,3 +18,6 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 Creating individual files and a lot of sending back and fourth. Honestly, given that every one involved would need deep understanding of how Git and GitHub works, idk which one is harder. Probably using Git.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Already answered this before.
